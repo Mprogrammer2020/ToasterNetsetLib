@@ -1,7 +1,7 @@
 # ToasterNetsetLib
 A simple library for toast a message.
 
-Installation
+### Installation
 
 Add it in your root build.gradle at the end of repositories:
 
@@ -18,7 +18,7 @@ Step 2. Add the dependency
 	        implementation 'com.github.Mprogrammer2020:ToasterNetsetLib:v1.1'
 	}
 
-Usage 
+### Usage 
 
 ```
 ToasterMessage.toastShort(this,"Hello From Netset!!")
