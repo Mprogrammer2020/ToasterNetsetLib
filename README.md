@@ -1,6 +1,6 @@
 # ToasterNetsetLib
 A simple library for toast a message.
-<br>[![GitHub Package Registry version](https://img.shields.io/badge/Version-v1.1-blue?label=Version&logo=github)](https://github.com/Mprogrammer2020/ToasterNetsetLib)
+<br>[![GitHub Package Registry version](https://img.shields.io/badge/Version-v1.1-blue?label=Version&logo=github)](https://github.com/Mprogrammer2020/ToasterNetsetLib/releases/tag/v1.1)
 
 ### Installation
 
