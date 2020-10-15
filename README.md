@@ -20,5 +20,7 @@ Step 2. Add the dependency
 
 Usage 
 
-`ToasterMessage.toastShort(this,"Hello From Netset!!")`
+```
+ToasterMessage.toastShort(this,"Hello From Netset!!")
+```
 
