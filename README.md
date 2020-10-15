@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.Mprogrammer2020:ToasterNetsetLib:Tag'
+	        implementation 'com.github.Mprogrammer2020:ToasterNetsetLib:v1.1'
 	}
 
 
