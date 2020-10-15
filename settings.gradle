@@ -1,0 +1,3 @@
+include ':ToasterNetsetLib'
+include ':app'
+rootProject.name = "Toaster"
